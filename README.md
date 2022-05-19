@@ -3,10 +3,6 @@
 
 # Project-008 : Movie App (RC-08)
 
-## Expected Outcome
-
-![Project 008 Snapshot](movie-app.gif)
-
 ## Description
 
 Project aims to create a Movie App.
@@ -46,6 +42,10 @@ SOLUTION
 ├── .env
 └── yarn.lock
 ```
+
+## Expected Outcome
+
+![Project 008 Snapshot](movie-app.gif)
 
 ## Objective
 
